@@ -1,7 +1,9 @@
 ﻿using System;
 namespace Mir.Ethernity.ImageLibrary
 {
-    public struct ImageDataType
+    public enum ImageDataType
     {
+        Dxt1,
+        RGBA
     }
 }
