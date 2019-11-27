@@ -3,7 +3,7 @@ namespace Mir.Ethernity.ImageLibrary
 {
     public interface IImage
     {
-        ushort Index { get; }
+        int Index { get; }
 
         IImageContent this[ImageType type] { get; }
     }

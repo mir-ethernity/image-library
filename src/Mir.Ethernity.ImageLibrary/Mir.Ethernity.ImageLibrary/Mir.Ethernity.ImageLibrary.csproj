@@ -1,13 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>armifer</Authors>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/mir-ethernity/image-library/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/mir-ethernity/image-library</PackageProjectUrl>
     <Description>Abstract definition for manage image libraries</Description>
     <PackageId>mir.ethernity.imagelibrary</PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
