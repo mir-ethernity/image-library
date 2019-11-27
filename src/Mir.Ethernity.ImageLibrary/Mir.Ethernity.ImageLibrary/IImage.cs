@@ -5,6 +5,6 @@ namespace Mir.Ethernity.ImageLibrary
     {
         ushort Index { get; }
 
-        IImage this[ImageType type] { get; }
+        IImageContent this[ImageType type] { get; }
     }
 }
