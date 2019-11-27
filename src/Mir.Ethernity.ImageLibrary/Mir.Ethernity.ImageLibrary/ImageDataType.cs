@@ -3,7 +3,6 @@ namespace Mir.Ethernity.ImageLibrary
 {
     public enum ImageDataType
     {
-        Dxt1,
-        RGBA
+        Dxt1
     }
 }

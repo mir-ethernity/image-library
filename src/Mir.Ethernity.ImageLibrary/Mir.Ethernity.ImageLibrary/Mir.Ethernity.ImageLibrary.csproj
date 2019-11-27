@@ -8,7 +8,8 @@
     <PackageProjectUrl>https://github.com/mir-ethernity/image-library</PackageProjectUrl>
     <Description>Abstract definition for manage image libraries</Description>
     <PackageId>mir.ethernity.imagelibrary</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.4</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
