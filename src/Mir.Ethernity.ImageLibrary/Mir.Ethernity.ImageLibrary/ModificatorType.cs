@@ -1,9 +1,12 @@
-﻿namespace Mir.Ethernity.ImageLibrary
+﻿using System;
+
+namespace Mir.Ethernity.ImageLibrary
 {
+    [Flags]
     public enum ModificatorType : byte
     {
-        None = 0,
-        Transform = 1,
-        Opacity = 2
+        None = 0x00,
+        Transform = 0x01,
+        Opacity = 0x02
     }
 }
